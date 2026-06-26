@@ -10,10 +10,11 @@ binary/
 desktop.ini
 .DS_Store
 
-.vscode/
 .idea/
 
 # hugo files
 docs/public/
 docs/.hugo_build.lock
 docs/resources/
+config.bat
+node_modules
